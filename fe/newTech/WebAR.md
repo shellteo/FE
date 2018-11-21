@@ -1,3 +1,5 @@
-# WebVR
+# WebAR
+框架：AR.js
 
-框架: A-Frame
+
+参考：https://github.com/jeromeetienne/AR.js
