@@ -9,3 +9,9 @@ CSP通过指定有效域——即浏览器认可的可执行脚本的有效来�
 
 
 作为一种终极防护形式，始终不允许执行脚本的站点可以选择全面禁止脚本执行。
+
+
+你可以使用  Content-Security-Policy HTTP头部 来指定你的策略，像这样:
+```javascript
+Content-Security-Policy: policy
+```
